@@ -1,0 +1,258 @@
+[
+    {
+        "outputFile": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 39,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 39,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 52,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 41,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 41,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 42,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 42,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 52,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 52,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 43,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 43,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 42,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 42,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 41,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 41,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 40,
+                    "endOffset": 565
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 40,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 570,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "C:\\Users\\WangMo\\AndroidStudioProjects\\chen\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

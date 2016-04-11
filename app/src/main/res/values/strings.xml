@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">chen</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="userName">用户名：</string>
+    <string name="namehint">请输入用户名</string>
+    <string name="userPass">密码：</string>
+    <string name="passWord">请输入密码</string>
+    <string name="buttonlogin">登陆</string>
+
+</resources>
